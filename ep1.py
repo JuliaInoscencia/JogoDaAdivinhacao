@@ -16,9 +16,6 @@
   Nome : Julia Inoscencia Oliveira dos Santos
   Prof.: Leo^nidas de Oliveira Branda~o
 
-  - O algoritmo Quicksort foi baseado em
-  http://wiki.python.org.br/QuickSort
-
 """
 
 import math; # para math.sqrt( x )
